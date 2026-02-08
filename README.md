@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Laas
+# 👋 Olá, me chamo Laas
 
 🎂 Idade: 21 anos  
 🎓 Estudante de Licenciatura em Computação  
