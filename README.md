@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Laas
+# 👋 Olá, me chamo Luiz Augusto
 
 🎂 Idade: 21 anos  
 🎓 Estudante de Licenciatura em Computação  
